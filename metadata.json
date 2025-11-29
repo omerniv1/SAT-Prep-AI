@@ -1,0 +1,5 @@
+{
+  "name": "SATprep.Ai",
+  "description": "An adaptive, AI-powered Digital SAT Math practice tool replicating the Bluebook experience. Focuses on the SAT Math section with high-difficulty questions with adaptive learning paths. (Q18 and forward)",
+  "requestFramePermissions": []
+}
